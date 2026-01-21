@@ -1,0 +1,5 @@
+[project]
+title = Rustore-Core-Defold
+
+[library]
+include_dirs = extension_rustore_core
